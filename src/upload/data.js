@@ -65,6 +65,19 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Amit bhargav",
+    role: "Data scientist",
+    image: "https://avatars.githubusercontent.com/u/72143067?s=60&v=4",
+    skills: ['Ml', 'react', 'node', 'web developer','react native','python','flutter','Ai'],
+    link: [
+      "https://github.com/amitbhargav0408",
+      "https://linkedin.com/in/amitbhargav0408",
+      "https://twitter.com/amitbhargav0408",
+    ],
+  }
+
+
 ];
 
 export default data;
